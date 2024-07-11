@@ -9,5 +9,5 @@ This Python script generates random passwords based on user input for length. It
 - Uses a combination of uppercase letters, lowercase letters, and digits in passwords.
 
 ## Repository link
-You can find the repository link [here]()
+You can find the repository link [here](https://github.com/Aryabindu/Basic-level--Task-3/blob/main/password%20generator.py)
 
